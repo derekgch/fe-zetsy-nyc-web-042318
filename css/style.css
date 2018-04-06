@@ -39,10 +39,10 @@ hr + img {
 }
 
 
-#press img:hover {
+#Press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
-#press {
+#Press {
 	border: 5px #ccc solid;
 }
