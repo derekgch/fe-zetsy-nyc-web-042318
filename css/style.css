@@ -42,3 +42,7 @@ hr + img {
 [alt="logo"] {
 	border: 5px #ccc solid;
 }
+[alt="logo"] img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
