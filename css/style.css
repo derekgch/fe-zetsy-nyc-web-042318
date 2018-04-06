@@ -27,6 +27,7 @@ h1{
 }
 h2 {
 	font-size: 2em;
+	font-weight: bold;
 	color: rgb(152, 174, 166);
 }
 hr {
