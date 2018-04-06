@@ -39,7 +39,7 @@ hr + img {
 }
 
 
-#Press img:hover {
+[alt="logo"] img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
