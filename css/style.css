@@ -39,10 +39,9 @@ hr + img {
 }
 
 
-[alt="logo"] {
+#press {
 	border: 5px #ccc solid;
 }
-[alt="logo"] img:hover {
+#press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
-
