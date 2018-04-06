@@ -34,6 +34,6 @@ h2 {
 hr {
 	color:#ccc;
 }
-img {
+hr + img {
 	border: 5px rgb(152,173,166) solid;
 }
