@@ -43,6 +43,6 @@ hr + img {
 	border: 5px rgb(111,127,122) solid;
 }
 
-#Press {
+[alt="logo"]  {
 	border: 5px #ccc solid;
 }
