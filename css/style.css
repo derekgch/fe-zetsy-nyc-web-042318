@@ -34,3 +34,6 @@ h2 {
 hr {
 	color:#ccc;
 }
+img {
+	border: 5px rgb(152,173,166) solid;
+}
