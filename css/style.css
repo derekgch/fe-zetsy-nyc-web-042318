@@ -46,3 +46,8 @@ img[alt="logo"]:hover {
 img[alt="logo"] {
 	border: 5px #ccc solid;
 }
+
+footer {
+	font-size: .5em;
+	text-align: right;
+}
