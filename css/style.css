@@ -39,7 +39,7 @@ hr + img {
 }
 
 
-[alt="logo"] img:hover {
+img[alt="logo"]:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
